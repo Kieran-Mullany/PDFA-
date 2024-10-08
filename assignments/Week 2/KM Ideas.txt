@@ -1,0 +1,10 @@
+Most up to date is the Rough Work Jupyter Notebook
+Can retrieve data, can plot.
+Labelling is very messy for Date and time because there are 89 data points
+    [1] check into increasing scale - ticks?
+I have seperated the 2 days out so the plot changes colour for day 2
+    [2] Maybe remove the date part of the axis ?
+        I would have duplicate times (over 2 days) and a colour scheme to show Day 1 and Day 2
+        Plot wouldn't be effected because date and time have been used to plot it is only an isue because cannot read date and time 
+
+Working well, needs fine tuning

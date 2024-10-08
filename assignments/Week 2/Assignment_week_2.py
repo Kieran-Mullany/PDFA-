@@ -35,7 +35,9 @@ with open(DATADIR + FILENAME, "rt") as fp:
     ax.set_xlabel("Day and Date")
     ax.set_ylabel("Temperature Celsius")
     ax.set_title("Temperature Variation")
-    ax.set_xticks()
+    #ax.axhline()
+    
+    #ax.set_xticks()
     #plt.autoscale(enable=True, axis='both', tight=None)
     plt.show()
 
